@@ -10,6 +10,7 @@ List of node packages from the [rdf-ext](https://github.com/rdf-ext) organizatio
 - [**rdf-store-singlegraph**](https://npm.im/rdf-store-singlegraph) - Store has only a single graph
 - [**rdf-store-sparql**](https://npm.im/rdf-store-sparql) - Uses the Graph Store HTTP Protocol interface
 - [**rdf-store-rdfstore-js**](https://npm.im/rdf-store-rdfstore-js) - Store built on top of [Rdfstore-js](https://github.com/antoniogarrote/rdfstore-js)
+- [**rdf-store-multi**](https://npm.im/rdf-store-multi) - Use multiple store depending on the IRI
 
 ## RDF Serializers
 
