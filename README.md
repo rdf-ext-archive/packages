@@ -1,5 +1,5 @@
 # rdf-ext-packages
-List of node packages from the rdf-ext organization and contributors
+List of node packages from the [rdf-ext](https://github.com/rdf-ext) organization and contributors
 
 ## RDF Stores
 
