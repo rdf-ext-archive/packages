@@ -12,6 +12,7 @@ List of node packages from the [rdf-ext](http://github.com/rdf-ext) organization
 - [**rdf-ext/rdf-store-rdfstore-js**](http://npm.im/rdf-store-rdfstore-js) - Store built on top of [Rdfstore-js](http://github.com/antoniogarrote/rdfstore-js)
 - [**nicola/rdf-store-multi**](http://npm.im/rdf-store-multi) - Use multiple store depending on the IRI
 - [**nicola/rdf-store-server**](http://npm.im/rdf-store-server) - Uses a local store or a remote store depending on the IRI
+- [**nicola/rdf-store-acl**](http://npm.im/rdf-store-acl) - Add ACL support to your RDF store
 
 ## RDF Serializers
 
