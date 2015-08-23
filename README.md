@@ -3,7 +3,7 @@ List of node packages from the [rdf-ext](http://github.com/rdf-ext) organization
 
 ## RDF Stores
 
-- [**rdf-ext/rdf-store-abstract**](http://npm.im/rdf-store-abstract)- Abstract implementation, can be used to build your own store
+- [**rdf-ext/rdf-store-abstract**](http://npm.im/rdf-store-abstract) - Abstract implementation, can be used to build your own store
 - [**rdf-ext/rdf-store-ldp**](http://npm.im/rdf-store-ldp) - Query an external Linked Data Platform via RESTful HTTP requests
 - [**rdf-ext/rdf-store-fs**](http://npm.im/rdf-store-fs) - Using the file system
 - [**rdf-ext/rdf-store-inmemory**](http://npm.im/rdf-store-inmemory) - Store loaded in memomory
