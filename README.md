@@ -22,9 +22,8 @@ List of node packages from the [rdf-ext](http://github.com/rdf-ext) organization
 - To come!
 
 ## Others
+- [**nicola/folder-to-rdf**](http://npm.im/folder-to-rdf) - Get an RDF graph of the contents of a folder
 - Add yours!
-
-
 
 ## Contribute
 
