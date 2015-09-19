@@ -14,12 +14,18 @@ List of node packages from the [rdf-ext](http://github.com/rdf-ext) organization
 - [**nicola/rdf-store-server**](http://github.com/nicola/rdf-store-server) - Uses a local store or a remote store depending on the IRI
 - [**nicola/rdf-store-acl**](http://github.com/nicola/rdf-store-acl) - Add ACL support to your RDF store
 
-## RDF Serializers
-
-- To come!
-
 ## RDF Parsers
-- To come!
+
+- [**rdf-parser-abstract**](https://github.com/rdf-ext/rdf-parser-abstract)
+- [**rdf-parser-rdfxml**](https://github.com/rdf-ext/rdf-parser-rdfxml)
+- [**rdf-parser-microdata**](https://github.com/rdf-ext/rdf-parser-microdata)
+- [**rdf-parser-dom**](https://github.com/rdf-ext/rdf-parser-dom) - abstract class for DOM parsing
+- [**rdf-parser-jsonld**](https://github.com/rdf-ext/rdf-parser-jsonld)
+
+## RDF Serializers
+- [**rdf-serializer-abstract**](https://github.com/rdf-ext/rdf-serializer-abstract)
+- [**rdf-serializer-jsonld**](https://github.com/rdf-ext/rdf-serializer-jsonld)
+
 
 ## Others
 - [**nicola/folder-to-rdf**](http://github.com/nicola/folder-to-rdf) - Get an RDF graph of the contents of a folder
