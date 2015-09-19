@@ -21,6 +21,7 @@ List of node packages from the [rdf-ext](http://github.com/rdf-ext) organization
 - [**rdf-parser-microdata**](https://github.com/rdf-ext/rdf-parser-microdata)
 - [**rdf-parser-dom**](https://github.com/rdf-ext/rdf-parser-dom) - abstract class for DOM parsing
 - [**rdf-parser-jsonld**](https://github.com/rdf-ext/rdf-parser-jsonld)
+- [**rdf-parser-n3**](https://github.com/rdf-ext/rdf-parser-n3)
 
 ## RDF Serializers
 - [**rdf-serializer-abstract**](https://github.com/rdf-ext/rdf-serializer-abstract)
