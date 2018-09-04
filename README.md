@@ -1,3 +1,5 @@
+# This repo is no longer maintained
+
 # rdf-ext-packages
 List of node packages from the [rdf-ext](http://github.com/rdf-ext) organization and contributors
 
